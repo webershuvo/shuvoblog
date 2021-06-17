@@ -1,0 +1,82 @@
+@media (max-width: 768px) {
+    .shuvo-title {
+        width: 50%;
+        padding: 0 5px;
+        font-size: 25px;
+    }
+    .shuvo-header-link {
+        padding: 0 5px;
+    }
+    .shuvo-header-link a {
+        font-size: 15px;
+    }
+
+    .shuvo-banner img {
+        width: 100%;
+        height: 540px;
+        object-fit: cover;
+        position: relative;
+    }
+    .shuvo-banner-btn {
+        font-size: 22px;
+    }
+    /* Home Area End */
+    .shuvo-row {
+        padding: 5px;
+    }
+
+    /* Blog Area Start */
+    .shuvo-col-3 {
+        flex: 100%;
+        padding: 10px;
+    }
+
+    /* Contact Area Start */
+    .shuvo-col-6 {
+        flex: 100%;
+        padding: 5px;
+    }
+    /* Login & Signup Area Start */
+    .shuvo-login-box {
+        width: 100%;
+        margin: 0;
+    }
+
+    .shuvo-signup-box {
+        width: 100%;
+        margin: 0;
+    }
+
+
+    /* Footer Area Start */
+    #shuvo-footer {
+        height: 100px;
+        flex-direction: column;
+        font-size: 15px;
+        background: rgba(13, 13, 14, 0.863);
+    }
+    .shuvo-left-footer {
+        flex: 100%;
+        margin: 0 20px;
+        text-align: center;
+    }
+    .shuvo-right-footer {
+        flex: 100%;
+        text-align: center;
+    }
+    .shuvo-footer-clear {
+        height: 50px;
+    }
+    .shuvo-fix-footer {
+        margin: 0;
+        width: 100%;
+        border-radius: 0;
+    }
+    .shuvo-fix-footer a {
+        font-size: 15px;
+    }
+    /* Start Single */
+    .shuvo-single {
+        padding: 10px;
+    }
+}
